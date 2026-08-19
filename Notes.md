@@ -15,7 +15,6 @@
 
 
 * **If you had another day, what improvements would you make?**
-  * Add visual regression comparison tests using Playwright's native snapshot matching (`toHaveScreenshot`).
   * Implement custom fixtures for auto-login state reuse to speed up test execution.
   * Integrate custom Slack or Email HTML test report notifications upon GitHub Actions run completion.
 
